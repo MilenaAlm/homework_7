@@ -9,7 +9,6 @@ public class Main {
             System.out.println("Месяц " + i + " сумма накоплений равна " + total + " рублей");
             i++;
         }
-
         System.out.println("Задача 2");
         int s = 1;
         while ( s <= 10){
