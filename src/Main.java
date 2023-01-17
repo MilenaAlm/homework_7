@@ -31,7 +31,6 @@ public class Main {
             population = population/1000 * difference + population;
             System.out.println("Год " +year +", численность населения составляет " + population);
         }
-
     }
 }
 
